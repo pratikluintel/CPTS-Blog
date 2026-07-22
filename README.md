@@ -8,7 +8,7 @@ This documentation aims to record enumeration, methodology, and decision-making 
 
 ## Advice for Learners
 
-Use this documentation resource only when needed. Try approaching each lab independently first and use these notes to understand methodology, techniques, and thought processes rather than relying on direct solutions. Happy Learning 👾💻
+Use this documentation resource only when needed. Try approaching each lab independently first and use these notes to understand methodology, techniques, and thought processes rather than relying on direct solutions. Happy Hacking 👾💻
 
 
 ![CPTS-Blog Logo](./assets/logo.png)
