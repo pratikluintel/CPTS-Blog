@@ -18,4 +18,4 @@ IppSec-Path
 CPTS-Lab-Pathway
 
 
-![CPTS-Blog Logo](./logo.png)
+![CPTS-Blog Logo](./assets/logo.png)
