@@ -1,8 +1,8 @@
 A collection of documentation covering:
 
-- HTB Academy Labs
+- CPTS Academy Labs
 - IppSec’s Unofficial Pathway Labs
-- CPTS's Official Pathway Labs
+- CPTS Lab Pathway
 
 This documentation aims to record enumeration, methodology, and decision-making for each lab to help learners understand the process behind each lab. Flags and direct solutions are intentionally omitted, and Academy Q&A sections are skipped as the focus is on practical lab work.
 
