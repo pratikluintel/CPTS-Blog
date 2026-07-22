@@ -11,19 +11,9 @@ This documentation aims to record enumeration, methodology, and decision-making 
 Use this documentation only when needed. Try approaching each lab independently first and use these notes to understand methodology, techniques, and thought processes rather than relying on direct solutions.
 
 ## Structure
-CPTS-Blog
-│
-├── HTB-Academy
-│ ├── Module-01
-│ ├── Module-02
-│ └── ...
-│
-├── IppSec-Path
-│ ├── Machine-01
-│ ├── Machine-02
-│ └── ...
-│
-└── CPTS-Lab-Pathway
-├── Linux
-├── Windows
-└── Active-Directory
+CPTS-Academy
+
+IppSec-Path
+
+CPTS-Lab-Pathway
+
