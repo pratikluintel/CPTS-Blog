@@ -1,2 +1,29 @@
-# CPTS-Blog
-A collection of CPTS pathway documentation covering HTB Academy labs, IppSec’s Path, and the CPTS Lab Pathway. This blog series aims to document enumeration, methodology, and decision-making for each lab to help learners. Flags and direct solutions are omitted, and Q&amp;A questions from the Academy section are skipped focusing only on labs. 💻👾
+A collection of CPTS pathway documentation covering:
+
+- HTB Academy Labs
+- IppSec’s Path
+- CPTS Lab Pathway
+
+This documentation aims to record enumeration, methodology, and decision-making for each lab to help learners understand the process behind each lab. Flags and direct solutions are intentionally omitted, and Academy Q&A sections are skipped as the focus is on practical lab work.
+
+## Advice for Learners
+
+Use this documentation only when needed. Try approaching each lab independently first and use these notes to understand methodology, techniques, and thought processes rather than relying on direct solutions.
+
+## Structure
+CPTS-Blog
+│
+├── HTB-Academy
+│ ├── Module-01
+│ ├── Module-02
+│ └── ...
+│
+├── IppSec-Path
+│ ├── Machine-01
+│ ├── Machine-02
+│ └── ...
+│
+└── CPTS-Lab-Pathway
+├── Linux
+├── Windows
+└── Active-Directory
