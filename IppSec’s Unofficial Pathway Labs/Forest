@@ -25,5 +25,3 @@
 ## Initial Nmap Scan
 
 ### Command
-```bash
-sudo nmap -sV -sC -Pn -n -oA initial <IP>
