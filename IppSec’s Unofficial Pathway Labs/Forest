@@ -18,10 +18,6 @@
 - My Machine IP (optional)
 - Tools Used
 
----
+Enumeration
 
-# 1. Enumeration
-
-## Initial Nmap Scan
-
-### Command
+![Nmap Scan](../assets/forest/01-nmap.png)
