@@ -1,1 +1,29 @@
 
+# Room Name
+
+## Overview
+- Difficulty:
+- Platform:
+- Skills Covered:
+- Estimated Time:
+- Tags:
+
+## Learning Objectives
+- What you'll learn
+- New tools
+- New techniques
+
+## Lab Information
+- Target IP:
+- My Machine IP (optional)
+- Tools Used
+
+---
+
+# 1. Enumeration
+
+## Initial Nmap Scan
+
+### Command
+```bash
+sudo nmap -sV -sC -Pn -n -oA initial <IP>
